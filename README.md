@@ -1,5 +1,5 @@
 # TinyTask
 
-[Download TinyTask](https://google.com)
+[Download TinyTask](https://github.com/TinyTask-Official/TinyTask/releases/download/TinyTask/TinyTask.exe)
 
 Simple application to automate computer tasks
